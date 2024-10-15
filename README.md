@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddlyk&layout=compact&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oddlyk&theme=dark&show_icons=true)
 <!--
 **oddlyk/oddlyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
