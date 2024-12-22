@@ -1,4 +1,4 @@
-### Hi there 👋
+### 주석을 사랑하는 개발자 김묘경입니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddlyk&layout=compact&theme=dark)
 
